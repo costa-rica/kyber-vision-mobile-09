@@ -13,7 +13,6 @@ Vollyball training application
 
 ### not all yet implemented
 
-- Make the Top navigation bar smaller
 - design a new Portrait mode scripting with new design - must have space to tap.
 
 ## .env
